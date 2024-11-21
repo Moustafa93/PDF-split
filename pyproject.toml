@@ -1,0 +1,2 @@
+[project.scripts]
+greet = "pdfsplit.cli:app"
